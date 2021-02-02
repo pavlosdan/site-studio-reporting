@@ -1,0 +1,23 @@
+{
+    "name": "acquia/site_studio_reporting",
+    "type": "drupal-drush",
+    "description": "Drush commands to help gather usage statistics for Site Studio entities",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+        "name": "Acquia Engineering",
+        "homepage": "https://www.acquia.com",
+        "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "acquia/cohesion": ">=6.4.0"
+    },
+    "extra": {
+        "drush": {
+            "services": {
+                "drush.services.yml": "^10"
+            }
+        }
+    }
+}

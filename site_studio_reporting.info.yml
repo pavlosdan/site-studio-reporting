@@ -1,0 +1,5 @@
+name: Site Studio Reporting
+type: module
+description: Drush commands to generate site studio reports.
+package: Site Studio
+core_version_requirement: ^8.8 || ^9

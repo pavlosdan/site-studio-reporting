@@ -1,0 +1,6 @@
+services:
+  site_studio_reporting.commands:
+    class: \Drupal\site_studio_reporting\Commands\SiteStudioReportingCommands
+    arguments: ['@string_translation', '@cohesion_usage.update_manager', '@entity.repository', '@entity_type.manager']
+    tags:
+      - { name: drush.command }
