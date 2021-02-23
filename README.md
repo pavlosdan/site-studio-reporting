@@ -26,7 +26,7 @@ composer config repositories.blt-site-studio vcs https://github.com/pavlosdan/si
 
 Require the module with Composer:
 
-`composer require acquia/site-studio-reporting`
+`composer require acquia/site_studio_reporting`
 
 ## Usage examples
 ```
