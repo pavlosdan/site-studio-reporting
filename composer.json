@@ -1,6 +1,6 @@
 {
     "name": "acquia/site_studio_reporting",
-    "type": "drupal-drush",
+    "type": "drupal-module",
     "description": "Drush commands to help gather usage statistics for Site Studio entities",
     "license": "GPL-2.0+",
     "authors": [
