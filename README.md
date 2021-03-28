@@ -3,7 +3,7 @@ Site Studio Reporting
 
 This is a module providing drush commands that expose [Acquia Site Studio](https://www.acquia.com/products-services/acquia-cohesion)'s "In use" stats via drush for easier reporting on Site Studio entities usage.
 
-Site Studio version: >=6.4.0
+Site Studio version: >=6.3.0
 
 ## Installation
 
