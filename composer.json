@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "acquia/cohesion": ">=6.4.0"
+        "acquia/cohesion": ">=6.3.0"
     },
     "extra": {
         "drush": {
